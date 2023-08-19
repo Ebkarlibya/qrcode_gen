@@ -181,7 +181,8 @@ jenv = {
 
 jinja = {
     "methods": [
-        "qrcode_gen.qrcode.gen_qrcode"
+        "qrcode_gen.qrcode.gen_qrcode",
+        "qrcode_gen.qrcode.gen_barcode"
     ],
     # "filters": [
     #     "app.jinja.filters",

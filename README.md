@@ -2,7 +2,7 @@
 
 this simple app uses pyqrcode library to generate **QRCodes** in ERPNext.
 
-
+Note: you can also generate barcodes by using "gen_barcode" api/jinja print
 
 
 install the app to your site and send GET request to:
