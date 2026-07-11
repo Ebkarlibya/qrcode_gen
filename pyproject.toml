@@ -1,5 +1,5 @@
 [project]
-name = "qrcode_gen"
+name = "etms_permissions_controller"
 authors = [
     { name = "Ebkar", email = "info@ebkar.ly"}
 ]
